@@ -1,1 +1,16 @@
- 
+ * {
+  margin: 0;
+  padding: 0;
+}
+
+canvas {
+  display: block;
+}
+
+
+#particles-js {
+  background-color: #d97300;
+  background-size: cover;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+}
